@@ -229,7 +229,7 @@ class WePayService
                     'partner_trade_no' => '' . time(),
                     'openid' => 'o6KIX6gpox0O_Fj9ZzY7zz4z9tlc',
                     'check_name' => 'FORCE_CHECK',
-                    're_user_name' => '李建飞',
+                    're_user_name' => 'XXX',
                     'amount' => '100',
                     'desc' => '理赔',
 //                    'spbill_create_ip' => '192.168.0.1',
